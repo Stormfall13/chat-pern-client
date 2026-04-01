@@ -15,6 +15,7 @@ const Home = () => {
     return (
         <>
             Главная
+            <a href="/chat">Чат</a>
         </>
     );
 };
